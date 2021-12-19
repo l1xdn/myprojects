@@ -18,7 +18,5 @@ c = input("y     n\n\n")
 if c in ('y'):
  bill += 2.99
  print(f"ur total bill is ${bill}")
- 
 if c in ("n"):
  print(f"ur price is ${bill}")
- 
